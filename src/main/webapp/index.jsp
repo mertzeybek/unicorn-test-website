@@ -27,7 +27,7 @@
 
 <body>
     <header class="site-header">
-        <h1 class="title">Wild Rydes</h1>
+        <h1 class="title">Hello World!</h1>
     </header>
     <section class="home-about">
         
